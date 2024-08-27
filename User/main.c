@@ -38,8 +38,7 @@
         Line 545 on ReInitMACReg we commented a Delay_Us
         Line 786 on ETH_Configuration we commented a Delay_Us
         Line 943 eth_driver_10M.c commented a Delay_ms
-
-    Extern socket function !!! defined in main.h
+	
     Line 272 in main.c turn Red LED on when TCP link error/cable unpluged
  */
 

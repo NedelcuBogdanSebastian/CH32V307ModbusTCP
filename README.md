@@ -1,23 +1,11 @@
-/********************************** (C) COPYRIGHT *******************************
-* File Name          : main.c
-* Author             : Nedelcu Bogdan Sebastian
-* Version            : V1.0.0
-* Date               : 27/August/2024
-* Description        : Main program body.
-*********************************************************************************
-* Copyright (c) 2021 Nanjing Qinheng Microelectronics Co., Ltd.
-* Attention: This software (modified or not) and binary are used for
-* microcontroller manufactured by Nanjing Qinheng Microelectronics.
-*******************************************************************************/
 
-/****************************** readme.md file ************************************
                            MounRiver Studio_Community
                                 Version: v1.50
-
+                                
                            Nedelcu Bogdan Sebastian
                                 27/August/2024
                      Modbus TCP stack running on CH32V307VCT6
-***********************************************************************************
+*********************************************************************************** 
 
     SPECIAL THANKS => <<<XuPing>>> for help with ModbusTCP library. Some modfications were made.
 

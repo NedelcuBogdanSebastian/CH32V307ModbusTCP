@@ -29,4 +29,3 @@
 
     Extern socket function !!! defined in main.h
     Line 272 in main.c turn Red LED on when TCP link error/cable unpluged
- */
